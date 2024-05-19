@@ -1,2 +1,0 @@
-1. only medain income and house values are relevent in the dataset .
-2.no of features reduced to interpret the result.
